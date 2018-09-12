@@ -7,7 +7,7 @@ which will appear in the proceedings of ICFG 2016.
 
 It should run cleanly on a suitable machine with Python installed. The diagrams can be produced using the scripts provided which start with run.
 
-```
+
 git clone https://github.com/alexc17/testcfg.git
 cd testcfg/testcfg
 
@@ -15,6 +15,5 @@ cd testcfg/testcfg
 python run_experiment_cnf_density_2.py
 
 python run_experiment_cnf_1fkp.py
-```
 
 
